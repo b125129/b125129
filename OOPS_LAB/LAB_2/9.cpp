@@ -19,10 +19,10 @@ class Student{
     }
     void student_marks(){
         cout <<"Total marks of student = "<< sub1+sub2+sub3+sub4+sub5 ;
-        cout <<"\nPercentage marks of student = "<< ((sub1+sub2+sub3+sub4+sub5)/500)*100 ;
+        cout <<"\nPercentage marks of student = "<< ((sub1+sub2+sub3+sub4+sub5)/500.0)*100 ;
     }
     void grade(){
-        float percentage = ((sub1+sub2+sub3+sub4+sub5)/500)*100;
+        float percentage = ((sub1+sub2+sub3+sub4+sub5)/500.0)*100;
         if(percentage>=90){
             cout <<"\nGrade = A" ;
         }
