@@ -25,7 +25,6 @@ class employee{
 
 int main(){
     employee e;
-    float ar,per;
     e.inp();
     e.sal();
     e.display();
