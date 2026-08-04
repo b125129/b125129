@@ -29,7 +29,6 @@ class calc{
 
 int main(){
     calc c;
-    float ar,per;
     c.inp();
     c.add();
     c.sub();
