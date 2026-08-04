@@ -16,7 +16,7 @@ class calc{
             cout<<"Subtraction: "<<n1-n2<<endl;
         }
         void mul(){
-            cout<<"Multiplication: "<<n1+n2<<endl;
+            cout<<"Multiplication: "<<n1*n2<<endl;
         }
         void div(){
             if(n2==0){
