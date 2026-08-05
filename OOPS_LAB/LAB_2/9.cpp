@@ -4,7 +4,6 @@ using namespace std;
 class Student{
     int roll_no;
     char name[50];
-    float marks ;
     int sub1,sub2,sub3,sub4,sub5;
 
     public:
