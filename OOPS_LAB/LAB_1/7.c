@@ -1,5 +1,6 @@
-#include<stdio.h>
+#include<stdio.h>    //included library for standarad input and output
 
+//define the required structure
 typedef struct {
     int roll_no;
     char name[50];
@@ -8,8 +9,9 @@ typedef struct {
     int mk_phy ;
 }student;
 
-void main(){
-    student s1 ;
+int main(){
+    student s1 ;    // Declare a variable s1 of type student
+    // Input values from the user and store them in structure member
     printf("Enter roll number: ");
     scanf("%d",&s1.roll_no);
     printf("Enter name: ");
@@ -21,7 +23,10 @@ void main(){
     printf("Enter marks in Physics:");
     scanf("%d",&s1.mk_phy);
 
+    
     int total = s1.mk_c + s1.mk_math +s1.mk_phy ;
-
+    
+    // Display the stored student details
     printf("Name:%s \n Total and Average marks are : %d and %f respectively.",s1.name,total,total/3.0);
+    return 0;
 }
