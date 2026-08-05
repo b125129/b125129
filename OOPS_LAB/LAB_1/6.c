@@ -6,7 +6,7 @@ typedef struct{
    float feet ;
 }distance;
 
-void main(){
+int main(){
     distance d1,d2;   // Declare two variable d1 and d2 of type distant
 
     // Input values from the user and store them in structure member
@@ -25,4 +25,5 @@ void main(){
 
     // Display the stored student details
     printf("\nTotal Distance = %f Feet %f Inches\n", d1.feet + d2.feet, d1.inch + d2.inch);
+    return 0;
 }
