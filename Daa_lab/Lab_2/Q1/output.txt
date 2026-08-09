@@ -1,4 +1,4 @@
-sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Downloads/B125098-DAA-LAB-main/LAB2/Q1$ ./a.out 
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/home/sujeet/Desktop/daa_lab/lab_2/Q1$ ./a.out 
 
 ================ n = 5000 ================
 Operation      UnsortArr     SortArr  SglyUnsort    SglySort  DblyUnsort    DblySort
