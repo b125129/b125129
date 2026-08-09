@@ -1,11 +1,14 @@
 #include<iostream>
 using namespace std;
 
+// Class definition to model product inventory management
 class product{
+        // Private attributes (data encapsulation)
         int p_id,qua_av,sold;
         float price;
         char name[50];
     public:
+        // Member function to take product details as input from user
         void inp(){
             cout<<"Enter product id, name of the product, available quantity and price per unit."<<endl;
             cin>>p_id;
@@ -13,13 +16,16 @@ class product{
             cin>>qua_av;
             cin>>price;
         }
+        // Member function to display current product information
         void display(){
             cout<<"Details of product."<<endl;
             cout<<"\nProduct ID: "<<p_id<<"\nName of the product: "<<name<<"\nQuantity available: "<<qua_av<<"\nprice per unit: "<<price<<endl;
         }
+        // Member function to calculate and print total remaining inventory value
         void tot_inv_value(){
             cout<<"The total value of the inventory after sales is "<<price*qua_av<<endl;
         }
+        // Member function to handle a sales transaction and update stock        
         void sell(){
             cout<<"No. of items sold ";
             cin>>sold;
@@ -35,7 +41,8 @@ class product{
 };
 
 int main(){
-    product p;
+    product p;        // Instantiate an object 'p' of class 'product'
+    
     p.inp();
     p.display();
     p.sell();
