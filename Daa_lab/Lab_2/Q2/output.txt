@@ -1,4 +1,4 @@
-sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Downloads/B125098-DAA-LAB-main/LAB2/Q2$ ./a.out 
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/home/sujeet/Desktop/daa_lab/lab_2/Q1$ ./a.out 
 n = 1000 | Normal = 8724 | Three-Way = 10781
 n = 2000 | Normal = 19398 | Three-Way = 24036
 n = 3000 | Normal = 30918 | Three-Way = 38250
