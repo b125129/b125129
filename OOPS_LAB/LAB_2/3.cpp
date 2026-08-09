@@ -37,6 +37,8 @@ class calc{
 
 int main(){
     calc c;        // Create an instance (object) of the 'calc' class
+
+    // Sequentially invoke class methods
     c.inp();
     c.add();
     c.sub();
