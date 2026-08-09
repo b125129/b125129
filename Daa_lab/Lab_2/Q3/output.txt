@@ -1,0 +1,12 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/home/sujeet/Desktop/daa_lab/lab_2/Q1$ ./a.out 
+
+Merging k Sorted Arrays
+
+k        Method 1 Operations    Method 1 Time      Method 2 Operations    Method 2 Time     
+--------------------------------------------------------------------------------
+2        1999                   0.000032           1999                   0.000014          
+4        8997                   0.000066           7996                   0.000043          
+8        34993                  0.000214           23988                  0.000092          
+16       134985                 0.000647           63968                  0.000239          
+32       526969                 0.002105           159920                 0.000711          
+64       2078937                0.010784           383808                 0.001705     
