@@ -1,0 +1,8 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q3$ ./a.out
+Enter the number of elements in the array: 6
+Enter 6 elements in sorted order:
+12 23 34 45 56 67
+Array elements: 12 23 34 45 56 67 
+
+Minimum element: 12
+Maximum element: 67
