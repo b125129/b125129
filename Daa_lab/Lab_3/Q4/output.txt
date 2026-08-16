@@ -1,0 +1,26 @@
+  sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q4$ ./a.out
+Enter the size of the square matrices: 2
+
+Enter elements of Matrix A:
+A[0][0] = 12
+A[0][1] = 13
+A[1][0] = 14
+A[1][1] = 15
+
+Enter elements of Matrix B:
+B[0][0] = 16
+B[0][1] = 17
+B[1][0] = 18
+B[1][1] = 19
+
+Matrix A:
+12	13	
+14	15	
+
+Matrix B:
+16	17	
+18	19	
+
+Resultant Matrix C (A x B):
+426	451	
+494	523	
