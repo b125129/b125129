@@ -1,0 +1,14 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q2$ ./a.out
+Enter number of coins: 5
+
+Enter the weights of 5 coins:
+Coin 1: 6.7
+Coin 2: 6.5
+Coin 3: 6.3
+Coin 4: 5.4
+Coin 5: 6.0
+
+----------------------------------
+Defective coin found!
+Coin number : 4
+Weight      : 5.40
