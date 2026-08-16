@@ -1,0 +1,5 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q6$ ./a.out 
+Enter the number of elements in the array: 6  
+Enter the elements of the array: 48 23 43 78 90 93
+Original array: 48 23 43 78 90 93 
+Sorted array:   23 43 48 78 90 93 
