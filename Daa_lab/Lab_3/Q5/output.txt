@@ -1,0 +1,20 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q5$ ./a.out 
+Enter n (power of 2): 4
+
+Enter Matrix A:
+12 23 34 45
+56 67 78 89
+90 01 12 23
+34 45 56 67
+
+Enter Matrix B:
+78 89 90 01
+12 23 34 45 
+56 67 78 89
+90 01 23 34
+
+Result Matrix:
+6088 6946 7760 8618 
+6946 6088 8618 7760 
+7760 8618 6088 6946 
+8618 7760 6946 6088 
