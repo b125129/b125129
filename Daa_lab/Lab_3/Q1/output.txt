@@ -1,0 +1,7 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_3/Q1$ ./a.out
+Enter the number of elements in the array: 7
+Enter 7 elements in sorted order:
+12 23 34 45 56 67 78
+Enter the element to search: 56
+Element found at index (Binary Search): 5
+Element found at index (Ternary Search): 5
