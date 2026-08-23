@@ -1,0 +1,18 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_4/Q4$ cd .. && cd Q5 && ./a.out
+Enter number of intervals: 6
+Enter intervals (start end):
+10 30
+20 40
+20 50
+5 60
+30 90
+50 100
+
+Merged intervals:
+(5, 100)
+
+Number of comparisons = 15
+Execution time = 0.000004 seconds
+
+Time Complexity: O(n log n)
+Space Complexity: O(n)

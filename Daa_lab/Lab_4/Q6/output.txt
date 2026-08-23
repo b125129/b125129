@@ -1,0 +1,17 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_4/Q5$ cd .. && cd Q6 && ./a.out
+Enter number of intervals: 6
+Enter intervals (left right):
+12 29
+10 50
+20 70
+5 60
+50 100
+40 130
+
+Point with maximum overlap = 50
+Maximum number of intervals = 5
+Number of comparisons = 29
+Execution time = 0.000005 seconds
+
+Time Complexity: O(n log n)
+Space Complexity: O(n)

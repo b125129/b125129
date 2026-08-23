@@ -1,0 +1,9 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_4/Q1$ cd .. && cd Q2 && ./a.out
+Enter size of the sets: 5
+Enter elements of S1:
+12 23 43 54 65 
+Enter elements of S2:
+66
+75 23 43 85
+Enter target value x: 77
+Pair found: (54, 23)

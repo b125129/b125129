@@ -1,0 +1,11 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/lab_4/Q1$ ./a.out
+Enter number of items: 5
+Enter number and colour (input must be sorted by number):
+5 red
+6 blue
+17 yellow
+50 red
+60 yellow
+
+Sorted by colour:
+(5, red) (50, red) (6, blue) (17, yellow) (60, yellow) 
