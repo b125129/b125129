@@ -1,0 +1,10 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_5/Q4$ cd .. && cd Q4 && gcc 4.c && ./a.out
+Enter number of elements: 6
+
+Randomly generated elements:
+850 222 178 78 842 417 
+
+Sorted elements using Heap Sort:
+78 178 222 417 842 850 
+
+The generated elements are also stored in file.txt

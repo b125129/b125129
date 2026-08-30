@@ -1,0 +1,6 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_5/Q1$ cd .. && cd Q2 && gcc 2.c && ./a.out
+Enter number of elements: 5
+Enter 5 elements:
+12 13 14 15 16 
+Enter k: 2
+2th smallest element = 13
