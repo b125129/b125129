@@ -1,0 +1,21 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_AKD/Q1$ ./a.out
+Enter number of elements: 5
+Enter 5 elements:
+12 34 54 23 45
+
+Original Array: 12 34 54 23 45 
+
+1. Maximum element = 54
+2. First largest = 54
+   Second largest = 45
+
+3. Mean = 33.60
+4. Median = 34.00
+5. Standard deviation = 15.00
+6. Mode = 12
+
+7. Array after removing duplicates: 12 34 54 23 45 
+8. Reversed array: 45 23 54 34 12 
+
+Enter pivot element for partition: 34
+9. Array after partitioning: 45 34 54 23 12 

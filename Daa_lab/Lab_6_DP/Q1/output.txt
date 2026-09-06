@@ -1,0 +1,3 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_DP/Q1$ ./a.out
+Enter n:4
+The value of 4th fibonacci number is 3

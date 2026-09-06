@@ -1,0 +1,8 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_DP/Q2$ ./a.out
+Enter number of items: 4
+Enter weights of items:
+2 3 4 5
+Enter profits of items:
+3 4 5 6
+Enter knapsack capacity: 5
+Maximum profit = 7

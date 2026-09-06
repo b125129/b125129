@@ -1,0 +1,30 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_AKD/Q2$ ./a.out 
+Enter order of square matrix: 2
+
+Enter elements of Matrix A:
+12 23 332 43
+
+Enter elements of Matrix B:
+12 34 54 23
+
+Matrix Addition:
+24 57 
+386 66 
+
+Matrix Multiplication:
+1386 937 
+6306 12277 
+
+Matrix A is NOT a Zero Matrix.
+Matrix A is NOT Symmetric.
+Determinant of Matrix A = -7120
+
+Transpose of Matrix A:
+12 332 
+23 43 
+
+Eigenvalue and Eigenvector:
+
+Dominant Eigenvalue = 60.7001
+Corresponding Eigenvector:
+0.6982 1.0000 

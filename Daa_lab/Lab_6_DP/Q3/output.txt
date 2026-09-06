@@ -1,0 +1,5 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_DP/Q3$ ./a.out
+Enter first string: hello
+Enter second string: yahello
+Length of LCS = 5
+Longest Common Subsequence = hello

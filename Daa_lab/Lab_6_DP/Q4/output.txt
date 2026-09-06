@@ -1,0 +1,9 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_DP/Q4$ ./a.out
+Enter N: 5
+Enter the dimensions of the matrices:
+2
+3
+3
+4
+1
+Minimum number of scalar multiplications = 27

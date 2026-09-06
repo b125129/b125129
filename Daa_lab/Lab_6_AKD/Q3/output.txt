@@ -1,0 +1,10 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_AKD/Q3$ ./a.out 
+Enter size of vector A: 3
+Enter size of vector B: 4
+Enter elements of vector A:
+12 34 43
+Enter elements of vector B:
+123 54 53 65
+
+Convolution of A and B:
+1476.00 4830.00 7761.00 4904.00 4489.00 2795.00 

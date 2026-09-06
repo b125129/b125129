@@ -1,0 +1,4 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_6_AKD/Q4$ ./a.out 
+Enter number of elements: 5
+Enter the permutation: 12 34 45 65 75
+Sorted permutation: 12 45 34 65 75 
