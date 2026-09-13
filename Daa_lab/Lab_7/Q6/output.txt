@@ -1,0 +1,10 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_7/Q6$ ./a.out 
+Enter number of scientists: 4
+Enter birth year and death year for each scientist:
+1920 1990
+1950 2026
+1930 1954
+1854 1940
+
+Maximum number of scientists alive = 3
+Time/year when maximum occurs = 1930

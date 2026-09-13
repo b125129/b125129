@@ -1,0 +1,5 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_7/Q2$ ./a.out
+Enter number of eggs: 5
+Enter number of floors: 7
+
+Minimum number of drops = 3

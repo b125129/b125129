@@ -1,0 +1,11 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_7/Q7$ ./a.out 
+Enter number of matrices: 4
+Enter 5 matrix dimensions:
+12
+14
+12
+5
+4
+
+Minimum number of scalar multiplications: 1584
+Optimal parenthesization: (A1 x (A2 x (A3 x A4)))
