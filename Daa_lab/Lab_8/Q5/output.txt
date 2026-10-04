@@ -1,0 +1,4 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q5$ ./a.out 
+Enter number of elements: 5
+Enter array elements: 12 43 57 32 58
+Maximum Sum of Increasing Subsequence = 170

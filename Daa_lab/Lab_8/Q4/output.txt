@@ -1,0 +1,4 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q4$ ./a.out 
+Enter number of elements: 6 
+Enter array elements: 23 57 28 43 49 26     
+Length of Longest Increasing Subsequence = 4

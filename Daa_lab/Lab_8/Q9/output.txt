@@ -1,0 +1,53 @@
+xsujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q9$ ./a.out
+Enter starting value n: 10
+Enter interval [a,b]:
+a = 2
+b = 30
+
+Trajectory for 10:
+10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+
+Number of steps : 6
+Maximum value   : 16
+
+Collatz Analysis for interval [2, 30]
+
+Starting Value  Steps           Maximum Value       
+------------------------------------------------------
+2               1               2                   
+3               7               16                  
+4               2               4                   
+5               5               16                  
+6               8               16                  
+7               16              52                  
+8               3               8                   
+9               19              52                  
+10              6               16                  
+11              14              52                  
+12              9               16                  
+13              9               40                  
+14              17              52                  
+15              17              160                 
+16              4               16                  
+17              12              52                  
+18              20              52                  
+19              20              88                  
+20              7               20                  
+21              7               64                  
+22              15              52                  
+23              15              160                 
+24              10              24                  
+25              23              88                  
+26              10              40                  
+27              111             9232                
+28              18              52                  
+29              18              88                  
+30              18              160                 
+
+Longest trajectory:
+Starting value : 27
+Number of steps: 111
+
+Highest value reached:
+Starting value : 27
+Maximum value  : 9232

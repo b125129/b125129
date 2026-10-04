@@ -1,0 +1,12 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q6$ ./a.out 
+Enter string A: hello
+Enter string B: hi
+
+Minimum Edit Distance = 4
+
+Traceback Operations:
+MATCH
+SUBSTITUTE '' -> ''
+DELETE 'o'
+DELETE 'l'
+DELETE 'l'

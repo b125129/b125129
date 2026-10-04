@@ -1,0 +1,5 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q2$ ./a.out 
+Enter number of coin denominations: 3
+Enter coin denominations: 10 50 100
+Enter target amount: 6000
+Total number of combinations = 3721

@@ -1,0 +1,8 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q1$ ./a.out
+Enter number of coin denominations: 4
+Enter coin denominations: 10
+20
+30
+50
+Enter target amount: 5000
+Minimum number of coins = 100

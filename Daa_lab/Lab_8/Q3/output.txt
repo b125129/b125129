@@ -1,0 +1,6 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/b125129/Daa_lab/Lab_8/Q3$ ./a.out 
+Enter first sequence: asedkfk
+Enter second sequence: aek
+Length of LCS = 3
+LCS = aek
+
