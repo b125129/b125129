@@ -1,0 +1,19 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q10$ ./a.out 
+=======================================================
+        TASK SCHEDULER WITH COOLING INTERVALS          
+=======================================================
+Enter task array as a continuous string : AAABBB
+Enter cooling interval (n): 2
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Total Tasks Count     : 6
+Max Frequency         : 3
+Tasks with Max Freq   : 2
+Cooling Distance (n)  : 2
+Formula Output        : 8 slots
+Idle Slots Needed     : 2
+=======================================================
+RESULT: Minimum Units of Time Required: 8
+=======================================================

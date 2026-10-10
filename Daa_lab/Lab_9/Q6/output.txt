@@ -1,0 +1,25 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q6$ ./a.out 
+=======================================================
+      REORGANIZE STRING WITH K-DISTANCE APART          
+=======================================================
+Enter string S: aabbcc
+Enter minimum distance K: 3
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Pos 0: Placed 'a' (Remaining count: 1)
+   'a' placed in cool-down until position 3
+Pos 1: Placed 'c' (Remaining count: 1)
+   'c' placed in cool-down until position 4
+Pos 2: Placed 'b' (Remaining count: 1)
+   'b' placed in cool-down until position 5
+Pos 3: Character 'a' out of cool-down -> Re-added to heap
+Pos 3: Placed 'a' (Remaining count: 0)
+Pos 4: Character 'c' out of cool-down -> Re-added to heap
+Pos 4: Placed 'c' (Remaining count: 0)
+Pos 5: Character 'b' out of cool-down -> Re-added to heap
+Pos 5: Placed 'b' (Remaining count: 0)
+=======================================================
+RESULT: Rearranged String: acbacb
+=======================================================

@@ -1,0 +1,37 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9$ ./a.out
+=======================================================
+ FRACTIONAL KNAPSACK WITH DETERIORATION RATE (GREEDY)  
+=======================================================
+Enter total Knapsack Capacity (W): 50
+Enter number of items (n): 3
+
+--- Enter Details for Each Item ---
+
+Item 1:
+  Base Value (v_1)    : 60
+  Weight (w_1)        : 10
+  Decay Rate (lambda_1): .1
+
+Item 2:
+  Base Value (v_2)    : 100
+  Weight (w_2)        : 20
+  Decay Rate (lambda_2): .05
+
+Item 3:
+  Base Value (v_3)    : 120
+  Weight (w_3)        : 30
+  Decay Rate (lambda_3): .2
+
+=======================================================
+                  EXECUTION RESULTS                    
+=======================================================
+Item ID  Weight Taken Fraction     Avg Density     Value Gained   
+-------------------------------------------------------
+1        10.00        1.00         5.50            55.00          
+2        20.00        1.00         4.00            80.00          
+3        0.00         0.00         -4.00           0.00            (Skipped - Decayed to <= 0)
+-------------------------------------------------------
+Total Knapsack Capacity Used : 30.00 / 50.00
+Total Time Elapsed           : 30.00 time units
+Maximum Total Value Achieved : 135.00
+=======================================================

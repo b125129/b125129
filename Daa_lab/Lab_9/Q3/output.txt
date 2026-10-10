@@ -1,0 +1,26 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q3$ ./a.out 
+=======================================================
+      MINIMUM INITIAL FUEL / REFUELING STOPS           
+=======================================================
+Enter Target Distance (D): 100
+Enter Initial Fuel (F): 10
+Enter Number of Stations (n): 4
+
+Enter station distance and fuel amount (e.g., '10 60'):
+Station 1: 10 60
+Station 2: 20 30
+Station 3: 30 30
+Station 4: 60 40
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Reached Station at dist 10 (Fuel: 60) -> Added to available choices.
+ -> Refueled +60 fuel! Total reachable distance now: 70 (Stops: 1)
+Reached Station at dist 20 (Fuel: 30) -> Added to available choices.
+Reached Station at dist 30 (Fuel: 30) -> Added to available choices.
+Reached Station at dist 60 (Fuel: 40) -> Added to available choices.
+ -> Refueled +40 fuel! Total reachable distance now: 110 (Stops: 2)
+=======================================================
+RESULT: Minimum refueling stops required: 2
+=======================================================

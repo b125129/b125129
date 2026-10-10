@@ -1,0 +1,26 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q7$ ./a.out 
+=======================================================
+        MINIMISE DEVIATION IN ARRAY (MAX-HEAP)         
+=======================================================
+Enter number of positive integers (n): 4
+Enter the 4 positive integers:
+Element 1: 4
+Element 2: 67
+Element 3: 69
+Element 4: 34
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Element 67 is odd -> Doubled to 134
+Element 69 is odd -> Doubled to 138
+
+Initial Max: 138 | Min: 4 | Starting Deviation: 134
+
+Step 1: Halved max element 138 -> 69 | New Max: 134 | New Min: 4 | Current Dev: 130
+Step 2: Halved max element 134 -> 67 | New Max: 69 | New Min: 4 | Current Dev: 65
+
+Max element (69) is now odd and cannot be halved further.
+=======================================================
+RESULT: Minimum Possible Deviation: 65
+=======================================================

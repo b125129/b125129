@@ -1,0 +1,20 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q4$ ./a.out 
+=======================================================
+         MINIMUM COST TO CONNECT STICKS                
+=======================================================
+Enter number of sticks (n): 4
+Enter the lengths of the 4 sticks:
+Stick 1 length: 4
+Stick 2 length: 2
+Stick 3 length: 6
+Stick 4 length: 1
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Step 1: Connected sticks of length 1 and 2 -> New stick length: 3 (Cost: 3)
+Step 2: Connected sticks of length 3 and 4 -> New stick length: 7 (Cost: 7)
+Step 3: Connected sticks of length 6 and 7 -> New stick length: 13 (Cost: 13)
+=======================================================
+RESULT: Minimum Total Cost to Connect All Sticks: 23
+=======================================================

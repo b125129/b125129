@@ -1,0 +1,34 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q9$ ./a.out 
+=======================================================
+          GAS STATION / CIRCULAR TOUR PROBLEM          
+=======================================================
+Enter number of gas stations (n): 5
+Enter gas available at each station:
+Gas at Station 0: 1
+Gas at Station 1: 2
+Gas at Station 2: 3
+Gas at Station 3: 4
+Gas at Station 4: 5
+Enter cost (gas needed) to travel to the next station:
+Cost from Station 0 to 1: 3
+Cost from Station 1 to 2: 4
+Cost from Station 2 to 3: 5
+Cost from Station 3 to 4: 1
+Cost from Station 4 to 0: 2
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Station 0: Gas = 1 | Cost = 3 | Net = -2 | Current Tank = -2
+   -> Tank depleted at station 0! Resetting starting candidate to 1.
+Station 1: Gas = 2 | Cost = 4 | Net = -2 | Current Tank = -2
+   -> Tank depleted at station 1! Resetting starting candidate to 2.
+Station 2: Gas = 3 | Cost = 5 | Net = -2 | Current Tank = -2
+   -> Tank depleted at station 2! Resetting starting candidate to 3.
+Station 3: Gas = 4 | Cost = 1 | Net = +3 | Current Tank = 3
+Station 4: Gas = 5 | Cost = 2 | Net = +3 | Current Tank = 6
+
+Total Net Fuel Balance across all stations: +0
+=======================================================
+RESULT: Starting Gas Station Index: 3
+=======================================================

@@ -1,0 +1,21 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q5$ ./a.out 
+=======================================================
+               CANDY DISTRIBUTION PROBLEM             
+=======================================================
+Enter number of children (n): 3
+Enter ratings for each of the 3 children:
+Child 1 rating: 1
+Child 2 rating: 3
+Child 3 rating: 5
+
+=======================================================
+               CANDY ALLOCATION TABLE                  
+=======================================================
+Child Index  Rating       Candies Given  
+-------------------------------------------------------
+1            1            1              
+2            3            2              
+3            5            3              
+=======================================================
+RESULT: Minimum Total Candies Required: 6
+=======================================================

@@ -1,0 +1,20 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_9/Q8$ ./a.out 
+=======================================================
+            MINIMUM MEETING ROOMS REQUIRED             
+=======================================================
+Enter number of meetings (n): 3
+Enter start and end times for each meeting (e.g. '0 30'):
+Meeting 1: 0 30 
+Meeting 2: 5 10
+Meeting 3: 15 20
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Time  0: Meeting started -> Rooms currently in use: 1
+Time  5: Meeting started -> Rooms currently in use: 2
+Time 10: Meeting ended   -> Rooms currently in use: 1
+Time 15: Meeting started -> Rooms currently in use: 2
+=======================================================
+RESULT: Minimum Conference Rooms Required: 2
+=======================================================
