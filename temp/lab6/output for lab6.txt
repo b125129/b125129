@@ -1,0 +1,62 @@
+output for lab 6
+
+1.cpp
+Distance 1: 5 feet 8 inches
+Distance 2: 3 feet 7 inches
+Result: 9 feet 3 inches
+
+2.cpp
+C1 = 8 + 5i,
+C2 = 3 + 2i
+Result: 5 + 3i
+
+3.cpp
+Name: AliceMarks: 450
+Name: BobMarks: 480
+Bob has higher marks.
+
+4.cpp
+n1: 25
+n2: -25
+
+5.cpp
+Time 1: 4 hours 45 minutes
+Time 2: 2 hours 30 minutes
+Result: 7 hours 15 minutes
+
+6.cpp
+Initial Value: 5
+After prefix (++c): Value: 6
+After postfix (c++): Value: 6
+Value after postfix completes: Value: 7
+
+7.cpp
+Date1: Day: 15	Month: 8	Year: 2026
+Date2: Day: 15	Month: 8	Year: 2026
+Both dates are equal.
+
+8.cpp
+Items before combining:
+Item: Pen, Price: 10, Quantity: 5
+Item: Pen, Price: 10, Quantity: 3
+
+Combined item:
+Item: Pen, Price: 10, Quantity: 8
+
+9.cpp
+Temperature 1: 30 °C
+Temperature 2: 30 °C
+Result: Both temperatures are equal.
+
+10.cpp
+--- Initial Products in Inventory ---
+p1 -> Product: Notebook, Price: 50, Quantity: 2, Total Value: 100
+p2 -> Product: Notebook, Price: 50, Quantity: 3, Total Value: 150
+p3 -> Product: Pen, Price: 10, Quantity: 10, Total Value: 100
+
+--- Performing Operations ---
+Combining p1 and p2:
+Product: Notebook, Price: 50, Quantity: 5, Total Value: 250
+
+Comparing total values (p1 > p3):
+Product 1 does not have a higher total value than Product 3.
