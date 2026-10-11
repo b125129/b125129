@@ -1,0 +1,100 @@
+output for lab 7
+
+1.cpp
+--- Senior Developer Details ---
+Name: Alice Smith
+Basic Salary: 50000
+Experience: 5 years
+Experience Bonus: 12500
+Project Bonus: 3000
+Final Salary: 65500
+
+2.cpp
+--- Regular Student Details ---
+Name: Bob | Roll No: 101
+Marks: 80, 75, 85
+
+--- Scholarship Student Details ---
+Name: Charlie | Roll No: 102
+Marks: 80, 75, 85
+
+--- Regular Student Result ---
+Total Marks: 240
+
+--- Scholarship Student Result ---
+Total Marks (including 5 bonus marks): 245
+
+3.cpp
+--- Luxury Car Rental Details ---
+Registration Number: OD-02-AB-1234
+Rental Duration: 4 days
+Daily Rate: 100
+Luxury Charge/Day: 50
+Total Rental Cost: 600
+
+4.cpp
+--- Account Details Before Transactions ---
+Account: SA1001
+Starting Balance: 5000
+
+Account: CA2002
+Starting Balance: 1500
+
+--- Savings Account Result ---
+Interest Added: 250
+Final Balance: 5250
+
+--- Current Account Result ---
+Balance below 2000. Maintenance charge of 100 applied.
+Final Balance: 1400
+
+5.cpp
+--- Performance Result ---
+Academic Subject 1: 85
+Academic Subject 2: 90
+Academic Subject 3: 88
+Sports Marks: 95
+Total Marks: 358
+Average Marks: 89.5
+
+6.cpp
+Ambiguity is resolved using scope resolution internally.
+Internal Exam 
+External Exam
+
+7.cpp
+--- Teaching Assistant Details ---
+Name: Emma Watson
+Age: 24
+Roll No: 201
+CGPA: 3.92
+Employee ID: TA998
+Salary: 25000
+
+8.cpp
+--- In-Patient Billing Info ---
+Patient ID: P1042
+Patient Name: Frank
+Age: 45
+Stay Duration: 5 days
+Daily Room Charge: 250
+Total Hospital Bill: 1250
+
+9.cpp
+Creating Manager object...
+
+Person constructor executed.
+Employee constructor executed.
+Manager constructor executed.
+
+--- Manager Info ---
+Name: Grace Hopper
+Employee ID: 501
+Department: Research & Development
+
+10.cpp
+--- Tech Lead Details ---
+Employee ID: TL701
+Name: Henry Ford
+Programming Language: C++
+Testing Tool: Selenium
