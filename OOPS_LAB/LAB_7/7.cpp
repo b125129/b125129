@@ -44,7 +44,7 @@ public:
         cout << "Roll No: " << rollNo << endl;
         cout << "CGPA: " << cgpa << endl;
         cout << "Employee ID: " << employeeID << endl;
-        cout << "Salary: $" << salary << endl;
+        cout << "Salary: " << salary << endl;
     }
 };
 

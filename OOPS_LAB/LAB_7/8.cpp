@@ -31,8 +31,8 @@ public:
         cout << "Patient Name: " << patientName << endl;
         cout << "Age: " << age << endl;
         cout << "Stay Duration: " << numberOfDays << " days" << endl;
-        cout << "Daily Room Charge: $" << roomChargesPerDay << endl;
-        cout << "Total Hospital Bill: $" << totalBill << endl;
+        cout << "Daily Room Charge: " << roomChargesPerDay << endl;
+        cout << "Total Hospital Bill: " << totalBill << endl;
     }
 };
 
