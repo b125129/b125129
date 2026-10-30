@@ -1,0 +1,25 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_11/Q3$ ./a.out 
+=======================================================
+   BIDIRECTIONAL BFS WORD TRANSFORMATION SEQUENCE      
+=======================================================
+Enter number of dictionary words (N) and word length (L): 5 4
+Enter start word A: hit
+Enter target word B: cog
+Enter 5 dictionary words:
+hot 
+dot 
+dog
+lot
+cog
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Forward Search visiting: hit (Dist: 0)
+Forward Search visiting: hot (Dist: 1)
+Backward Search visiting: cog (Dist: 0)
+Backward Search visiting: dog (Dist: 1)
+=======================================================
+RESULT: Minimum Mutations Required = 4
+=======================================================
+

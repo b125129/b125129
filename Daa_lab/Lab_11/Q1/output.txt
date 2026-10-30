@@ -1,0 +1,29 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_11/Q1$ ./a.out 
+=======================================================
+      0-1 BFS FOR PARITY-CONSTRAINED SHORTEST PATH     
+=======================================================
+Enter number of vertices (V) and edges (E): 4 4
+Enter 4 directed edges (format: src dest weight [0 or 1]):
+0 1 1
+1 2 1
+0 2 1
+2 3 0
+Enter Source Vertex (S) and Penalty Cost (C): 0 5
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Relaxed State: Node 0 (Parity 0) -> Node 2 (Parity 1) | Weight-1 Dist: 1
+Relaxed State: Node 0 (Parity 0) -> Node 1 (Parity 1) | Weight-1 Dist: 1
+Relaxed State: Node 2 (Parity 1) -> Node 3 (Parity 1) | Weight-1 Dist: 1
+Relaxed State: Node 1 (Parity 1) -> Node 2 (Parity 0) | Weight-1 Dist: 2
+Relaxed State: Node 2 (Parity 0) -> Node 3 (Parity 0) | Weight-1 Dist: 2
+
+=======================================================
+                    FINAL RESULTS                      
+=======================================================
+Node 0: Minimum Cost = 0 (Even-parity path: Valid, Odd-parity path: N/A)
+Node 1: Minimum Cost = 6 (Even-parity path: N/A, Odd-parity path: Valid)
+Node 2: Minimum Cost = 2 (Even-parity path: Valid, Odd-parity path: Valid)
+Node 3: Minimum Cost = 2 (Even-parity path: Valid, Odd-parity path: Valid)
+

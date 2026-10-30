@@ -1,0 +1,38 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_11/Q2$ ./a.out 
+=======================================================
+    MULTI-SOURCE BFS VORONOI CELL PARTITIONING          
+=======================================================
+Enter number of vertices (V) and edges (E): 6 6
+Enter 6 undirected edges (u v):
+1 2
+2 3
+3 4
+4 5
+5 6
+1 6
+Enter number of service hubs (K): 2
+Enter vertex indices for the 2 hubs:
+Hub 1 vertex: 1
+Hub 2 vertex: 4
+Enter radius threshold (R): 2
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Initialized Hub 1 at vertex 1 (Dist: 0)
+Initialized Hub 2 at vertex 4 (Dist: 0)
+Vertex 6 assigned to Hub 1 at Distance 1
+Vertex 2 assigned to Hub 1 at Distance 1
+Vertex 5 assigned to Hub 2 at Distance 1
+Vertex 3 assigned to Hub 2 at Distance 1
+
+=======================================================
+                  VORONOI CELL PARTITION               
+=======================================================
+Vertex  1 : Owner = Hub 1 | Shortest Distance = 0
+Vertex  2 : Owner = Hub 1 | Shortest Distance = 1
+Vertex  3 : Owner = Hub 2 | Shortest Distance = 1
+Vertex  4 : Owner = Hub 2 | Shortest Distance = 0
+Vertex  5 : Owner = Hub 2 | Shortest Distance = 1
+Vertex  6 : Owner = Hub 1 | Shortest Distance = 1
+
