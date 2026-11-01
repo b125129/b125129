@@ -1,0 +1,27 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_10/Q3$ ./a.out 
+=======================================================
+      MAXIMUM WEIGHT COMPONENT WITH SIZE CONSTRAINTS   
+=======================================================
+Enter number of vertices (V), edges (E), and size threshold (K): 5 4 3
+Enter weights for the 5 vertices (v1 to v5):
+Vertex 1 weight: 10
+Vertex 2 weight: 20
+Vertex 3 weight: 30
+Vertex 4 weight: 40
+Vertex 5 weight: 50
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Enter 4 edges sequentially (format: u v):
+1 2
+After Edge 1 (1 - 2): Max Weight Component (Size <= 3) = 50
+2 3
+After Edge 2 (2 - 3): Max Weight Component (Size <= 3) = 60
+3 4
+After Edge 3 (3 - 4): Max Weight Component (Size <= 3) = 50
+4 5
+After Edge 4 (4 - 5): Max Weight Component (Size <= 3) = -1
+=======================================================
+RESULT: Processing complete for all 4 edges.
+=======================================================

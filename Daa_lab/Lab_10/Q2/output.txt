@@ -1,0 +1,14 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_10/Q2$ ./a.out 
+Enter rows, columns and operations: 4 5 6
+Enter land coordinates (row column): 0 0
+Islands after operation 1: 1
+Enter land coordinates (row column): 0 1
+Islands after operation 2: 1
+Enter land coordinates (row column): 1 2
+Islands after operation 3: 2
+Enter land coordinates (row column): 2 1
+Islands after operation 4: 3
+Enter land coordinates (row column): 1 1
+Islands after operation 5: 1
+Enter land coordinates (row column): 0 0
+Islands after operation 6: 1

@@ -1,0 +1,24 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_10/Q5$ ./a.out 
+=======================================================
+     LEXICOGRAPHICALLY SMALLEST PERMUTATION VIA SWAPS  
+=======================================================
+Enter number of elements (n) and number of allowable swaps (m): 4 2    
+Enter the permutation A of numbers 1 to 4:
+A[1]: 1
+A[2]: 4
+A[3]: 3
+A[4]: 2
+Enter 2 allowable swap pairs (u v):
+1 4
+2 3
+
+=======================================================
+                  EXECUTION TRACE                      
+=======================================================
+Component Root 1: Size = 2 (Sorting indices & values)
+Component Root 2: Size = 2 (Sorting indices & values)
+
+=======================================================
+RESULT: Lexicographically Smallest Permutation:
+[ 1 3 4 2 ]
+=======================================================

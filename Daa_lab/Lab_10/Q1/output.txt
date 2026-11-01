@@ -1,0 +1,18 @@
+sujeet@sujeet-IdeaPad-Slim-5-13ARP10:~/Desktop/IIIT/sem_3/daa_lab/Lab_10/Q1$ ./a.out 
+Enter number of vertices and edges: 4 5
+Enter edge (u v): 0 1
+Edge (0, 1) accepted.
+Enter edge (u v): 1 2
+Edge (1, 2) accepted.
+Enter edge (u v): 2 3
+Edge (2, 3) accepted.
+Enter edge (u v): 3 0
+Edge (3, 0) accepted.
+Enter edge (u v): 0 2
+Edge (0, 2) rejected: violates bipartiteness.
+
+Final accepted edges:
+(0, 1)
+(0, 3)
+(1, 2)
+(2, 3)
